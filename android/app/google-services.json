@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "785550361427",
+    "firebase_url": "https://byka-test-projec-1547479631222.firebaseio.com",
+    "project_id": "byka-test-projec-1547479631222",
+    "storage_bucket": "byka-test-projec-1547479631222.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785550361427:android:cc4d25298da466a08a97a6",
+        "android_client_info": {
+          "package_name": "by.byka.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785550361427-c3lt7mnbf2beuu1ui5bre3qfprjdh2n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAArlOuP2i_udzQz1p3rLGjwfDCkQqm7qU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785550361427-c3lt7mnbf2beuu1ui5bre3qfprjdh2n7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
